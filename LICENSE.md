@@ -1,4 +1,4 @@
-# 
+# Elite Dify plugins. Com testes automatizados e processamento de baixa latência — otimizado para máximo desempenho e eficiência.
 
 
 
